@@ -3,5 +3,10 @@
     "sounds": [
       "better-death-mod:pog"
     ]
+  },
+  "nuclear_alarm": {
+    "sounds": [
+      "better-death-mod:nuclear_alarm"
+    ]
   }
 }
